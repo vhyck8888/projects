@@ -1,0 +1,19 @@
+/* Add your custom styles here */
+.app-container {
+  font-family: Arial, sans-serif;
+}
+
+.content-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sidebar {
+  width: 30%;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.map-section {
+  width: 70%;
+}
